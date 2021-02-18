@@ -40,7 +40,7 @@ _Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sci
 
 **2008: Ph.D., Oceanography** Oregon State University, College of Earth, Ocean and Atmospheric Sciences, Corvallis, Oregon | [“The spectral backscattering properties of marine particles”](http://hdl.handle.net/1957/9088)
 
-**2000: B.S. with honors, Aquatic Biology** University of California at Santa Barbara, College of Letters and Science, Department of Ecology, Evolution, and Marine Biology, Santa Barbara, California**	 
+**2000: B.S. with honors, Aquatic Biology** University of California at Santa Barbara, College of Letters and Science, Department of Ecology, Evolution, and Marine Biology, Santa Barbara, California
 
 
 ## CONTINUING PROFESSIONAL EDUCATION
