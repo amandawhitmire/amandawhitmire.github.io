@@ -27,14 +27,13 @@ I am responsible for the overall management of the Harold A. Miller Library. I m
 _Assistant to the Director, [Hopkins Marine Station](hopkinsmarinestation.stanford.edu/)_. In my role as Assistant to the Director of the Station, I help with fundraising, publicity, and tours. 
 
 ### 2012 - 2015: [Oregon State University Libraries and Press](https://library.oregonstate.edu/)
-
-_Assistant Professor, Data Management Specialist_. As a core leader 
+_Assistant Professor, Data Management Specialist_. 
 
 #### Jan. 2012 – Aug. 2012: Oregon State University	
-_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_ | Research adviser: Angelicque (Angel) White
+_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Angelicque (Angel) White
 
 #### July 2008 – Dec. 2011: Oregon State University	
-_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_ | Research adviser: Ricardo Letelier
+_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Ricardo Letelier
 
 ## EDUCATION
 
