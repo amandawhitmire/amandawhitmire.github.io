@@ -29,11 +29,9 @@ _Assistant to the Director, [Hopkins Marine Station](hopkinsmarinestation.stanfo
 ### 2012 - 2015: [Oregon State University Libraries and Press](https://library.oregonstate.edu/)
 _Assistant Professor, Data Management Specialist_. 
 
-#### Jan. 2012 – Aug. 2012: Oregon State University	
-_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Angelicque (Angel) White
+#### Jan. 2012 – Aug. 2012: Oregon State University	 _Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Angelicque (Angel) White
 
-#### July 2008 – Dec. 2011: Oregon State University	
-_Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Ricardo Letelier
+#### July 2008 – Dec. 2011: Oregon State University	 _Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_, Research adviser: Ricardo Letelier
 
 ## EDUCATION
 
