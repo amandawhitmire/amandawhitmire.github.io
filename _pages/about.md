@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an oceanographer-turned-librarian with a passion for rescuing old data. Observations from the past are ciritical in being able to put current changes into context. We can't go back in time to make observations over again - we must preserve and share as much as we can before it's lost. In my work as a librarian, I am able to merge my experiences in marine science research with new skills in digital curation. I believe in open science, open data, and the power of text files. 
+I am an oceanographer-turned-librarian with a passion for rescuing old data. Observations from the past are critical in being able to put current changes into context. We can't go back in time to make observations over again - we *must* preserve and share as much as we can before it's lost. In my work as a librarian, I am able to merge my experience in marine science research with new skills in digital curation. I believe in open science, open data, and the power of text files. 
 
 **Currently** I am Head Librarian & Bibliographer of the [Harold A. Miller Library](https://library.stanford.edu/hopkins), and Assistant to the Director of [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/) at Stanford University. I am also an elected official, serving as a [Trustee](https://www.mpusd.net/apps/pages/index.jsp?uREC_ID=1006448&type=d&pREC_ID=1317626) on the [Monterey Peninsula Unified School District](https://www.mpusd.net/) Board of Educaiton for Trustee Area 3 (Monterey; 2018-2022).
 
