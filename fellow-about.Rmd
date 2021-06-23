@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-This site is a place to document and share the work I'll be doing for my 2021 LEADING Fellowship Project, "From natural history literature to linked open data biodiversity knowledge graph." See the about page for more information about the fellowship program.
+This site is a place to document and share the work I'll be doing for my 2021 LEADING Fellowship Project, "From natural history literature to linked open data biodiversity knowledge graph."
 
 My fellowship project is housed under the Academy of Natural Sciences (ANSP) of Drexel University, and will be using the Proceedings of the Academy of Natural Sciences of Philadelphia. This project seeks to augment existing biodiversity specimen collection data by linking related descriptions found in the rich tradition of natural history literature. 
 
