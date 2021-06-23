@@ -19,7 +19,7 @@ navbar:
         - text: "About LEADING"
           href: fellow-about.html
         - text: "Work in Progress"
-          href: fellow-work.html
+          href: /fellow/fellow-work.html
 #    - icon: fab fa-orcid
 #      href: https://orcid.org/0000-0003-2429-8879 
 output: distill::distill_article
