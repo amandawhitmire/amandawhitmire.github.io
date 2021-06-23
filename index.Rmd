@@ -1,5 +1,7 @@
 ---
 title: "Amanda Whitmire"
+description: |
+  Libraries, old data, biodiversity, marine science
 image: "images/profile_photo.png"
 links:
   - label: Twitter
