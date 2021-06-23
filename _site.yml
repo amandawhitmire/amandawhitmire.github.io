@@ -3,6 +3,7 @@ title: "Amanda Whitmire"
 description: |
   My Website
 output_dir: "docs"
+url: https://amandawhitmire.github.io
 navbar:
   logo:
     image: images/noun_sea star_1160534.png
