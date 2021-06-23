@@ -1,0 +1,45 @@
+---
+title: "Products"
+description: |
+  Things you can read or use 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+## PUBLICATIONS
+### PEER-REVIEWED PAPERS
+1.	Soyka, Heather, Amber Budden, Viv Hutchison, David Bloom, Jonah Duckles, Amy Hodge, Matthew Mayernik, et al. “Using Peer Review to Support Development of Community Resources for Research Data Management.” Journal of EScience Librarianship 6, no. 2 (2017). [https://doi.org/10.7191/jeslib.2017.1114](https://doi.org/10.7191/jeslib.2017.1114). (Open Access)
+2.	Conrad, Suzanna, Yasmeen Shorish, Amanda L. Whitmire, and Patricia Hswe. “Building Professional Development Opportunities in Data Services for Academic Librarians.” IFLA Journal 43, no. 1 (2016): 0340035216678237. [https://doi.org/10.1177/0340035216678237](https://doi.org/10.1177/0340035216678237). (Open Access)
+3.	Parham, Susan Wells, Jake Carlson, Patricia Hswe, Brian Westra, and Amanda Whitmire. “Using Data Management Plans to Explore Variability in Research Data Management Practices across Domains.” International Journal of Digital Curation 11, no. 1 (2016): 53–67. [https://doi.org/10.2218/ijdc.v11i1.423](https://doi.org/10.2218/ijdc.v11i1.423). (Open Access)
+4.	Van Tuyl, Steven, and Amanda L. Whitmire. “Water, Water, Everywhere: Defining and Assessing Data Sharing in Academia.” PLoS ONE 11, no. 2 (2016): e0147942. [https://doi.org/10.1371/journal.pone.0147942](https://doi.org/10.1371/journal.pone.0147942). (Open Access)
+5.	White, A. E., R. M. Letelier, A. L. Whitmire, B. Barone, R. R. Bidigare, M. J. Church, and D. M. Karl. “Phenology of Particle Size Distributions and Primary Productivity in the North Pacific Subtropical Gyre (Station ALOHA).” Journal of Geophysical Research: Oceans 120, no. 11 (2015): 7381–99. [doi:10.1002/2015JC010897](http://dx.doi.org/10.1002/2015JC010897). (Open Access)
+6.	Whitmire, A. L. “Implementing a Graduate-Level Research Data Management Course: Approach, Outcomes, and Lessons Learned.” Journal of Librarianship and Scholarly Communication 3, no. 2. (2015):  [doi:10.7710/2162-3309.1246](http://dx.doi.org/10.7710/2162-3309.1246). (Open Access)
+7.	Whitmire, A. L., M. Boock, and S. C. Sutton. “Variability in Academic Research Data Management Practices: Implications for Data Services Development from a Faculty Survey.” Program: Electronic Library and Information Systems 49, no. 4: 382–407 (2015): [doi:10.1108/PROG-02-2015-0017](http://dx.doi.org/10.1108/PROG-02-2015-0017) (paywall). [Open Access version](http://hdl.handle.net/1957/57240)
+8.	Whitmire, A. L., W. S. Pegau, L. Karp-Boss, E. Boss, and T. J. Cowles. “Spectral backscattering properties of marine phytoplankton cultures,” Opt. Express 18, 15073-15093 (2010): [https://doi.org/10.1364/OE.18.015073](https://doi.org/10.1364/OE.18.015073). (Open Access)
+9.	Whitmire, A. L., R. M. Letelier, O. Ulloa, and V. Villagran. “Autonomous observations of in vivo fluorescence and backscattering in an oceanic oxygen minimum zone,” Opt. Express 17, 21992-22004 (2009): [doi:10.1364/OE.17.021992](https://doi.org/10.1364/OE.17.021992). (Open Access)
+10.	Chang, G. and A. L. Whitmire. "Effects of bulk particle characteristics on backscattering and optical closure," Opt. Express 17, 2132-2142 (2009): doi:10.1364/OE.17.002132. (Open Access)
+11.	Agrawal, Y.C., A. Whitmire, O. A. Mikkelsen, and H. C. Pottsmith. “Light scattering by random shaped particles and consequences on measuring suspended sediments by laser diffraction,” J. Geophys. Res., 113, C04023 (2008): doi:10.1029/2007JC004403. 
+12.	Whitmire, A.L., E. Boss, T.J. Cowles, W.S. Pegau. “Spectral variability of particulate backscattering ratio,” Opt. Express, 15, 7019-7031 (2007): doi:10.1364/OE.15.007019. (Open Access)
+13.	Chang, G. C., K. Mahoney, A. Briggs-Whitmire, D. Kohler, C. Mobley, M. Moline, M. Lewis, E. Boss, M. Kim, W. Philpot, and T. Dickey. “The New Age of Hyperspectral Oceanography,” Oceanography, 17(2), 22-29  (2004): doi:10.5670/oceanog.2004.43. (Open Access)
+
+### DATASETS
+1.	Van Tuyl, Steven, and Amanda L. Whitmire. (2015), “Data from: Water, Water Everywhere: Defining and Assessing Data Sharing in Academia.” Oregon State University Libraries. Dataset. (CC-0) [http://dx.doi.org/10.7267/N9W66HPQ](http://dx.doi.org/10.7267/N9W66HPQ). 
+2.	Whitmire, Amanda L. (2015), “Data and code from: Variability in academic research data management practices: implications for data services development from a faculty survey,” Oregon State University Libraries. Dataset. [http://dx.doi.org/10.7267/N9J1012R](http://dx.doi.org/10.7267/N9J1012R). (CC-0)
+
+### NON-REFEREED PAPERS
+1.	Van Tuyl, Steven, and Amanda Whitmire. 2018. “Investigation of Non-Academic Data Management Practices to Inform Academic Research Data Management.” Research Ideas and Outcomes 4 (October): e30829. (Open Access) [https://doi.org/10.3897/rio.4.e30829](https://doi.org/10.3897/rio.4.e30829).
+2.	Rolando, L., Carlson, J., Hswe, P., Parham, S. W., Westra, B. and Whitmire, A. L. (2015), Data Management Plans as a Research Tool. Bul. Am. Soc. Info. Sci. Tech., 41: 43–45. [http://dx.doi.org/10.1002/bult.2015.1720410510](http://dx.doi.org/10.1002/bult.2015.1720410510).
+3.	Wright, S., Whitmire, A., Zilinski, L. and Minor, D. (2014), Collaboration and tension between institutions and units providing data management support. Bul. Am. Soc. Info. Sci. Tech., 40: 18–21. [http://dx.doi.org/10.1002/bult.2014.1720400607](http://dx.doi.org/10.1002/bult.2014.1720400607).
+4.	Whitmire, A. L. (2013), “Thoughts on ‘eResearch’: a Scientist’s Perspective.” Journal of eScience Librarianship 2(2): Article 3, [http://dx.doi.org/10.7191/jeslib.2013.1045](http://dx.doi.org/10.7191/jeslib.2013.1045). [Commentary piece] Cited 2 times. (Open Access)
+5.	Sutton, Shan; Barber, David; Whitmire, A. L. (2013): Oregon State University Libraries and Press Strategic Agenda for Research Data Services. Oregon State University Libraries. [http://hdl.handle.net/1957/38794](http://hdl.handle.net/1957/38794). [White Paper]  
+
+### CURRICULA
+GRAD 521 – Research Data Management. A 10-week, 2-credit graduate-level course. Careful examination of all aspects of research data management best practices. Designed to prepare students to exceed funder mandates for performance in data planning, documentation, preservation and sharing in an increasingly complex digital research environment. Open to students of all disciplines.
+1.	Whitmire, Amanda. “GRAD 521 Research Data Management Syllabus and Lesson Plans”. figshare, April 18, 2014. [https://doi.org/10.6084/m9.figshare.1003834](https://doi.org/10.6084/m9.figshare.1003834)
+2.	Whitmire, Amanda. “GRAD 521 Research Data Management Course Assignments”. figshare, April 18, 2014. [https://doi.org/10.6084/m9.figshare.1003852.v1](https://doi.org/10.6084/m9.figshare.1003852.v1) 
+3.	Whitmire, Amanda. “GRAD 521 Research Data Management Lectures”. figshare, April 18, 2014. [https://doi.org/10.6084/m9.figshare.1003835.v2](https://doi.org/10.6084/m9.figshare.1003835.v2) 
+
+### OTHER PUBLICATIONS 
+1.	Whitmire, Amanda L, Jacob Carlson, Brian Westra, Patricia Hswe, and Susan Parham. 2017. “Rubric & Related Files; The DART Project.” Open Science Framework. December 21. [http://dx.doi.org/10.17605/OSF.IO/QH6AD](http://dx.doi.org/10.17605/OSF.IO/QH6AD). 
+2.	 Whitmire, Amanda; Briney, Kristin; Nurnberger, Amy; Henderson, Margaret; Atwood, Thea; Janz, Margaret; Kozlowski, Wendy; Lake, Sherry; Vandegrift, Micah; Zilinski, Lisa (2015): A table summarizing the Federal public access policies resulting from the US Office of Science and Technology Policy memorandum of February 2013. figshare. [http://dx.doi.org/10.6084/m9.figshare.1372041](http://dx.doi.org/10.6084/m9.figshare.1372041) 
