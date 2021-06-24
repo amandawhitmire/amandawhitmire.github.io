@@ -15,6 +15,8 @@ This site is a place to document and share the work I'll be doing for my 2021 LE
 
 My fellowship project is housed under the Academy of Natural Sciences (ANSP) of Drexel University, and will be using the Proceedings of the Academy of Natural Sciences of Philadelphia. This project seeks to augment existing biodiversity specimen collection data by linking related descriptions found in the rich tradition of natural history literature. 
 
+I'll be sharing the process and outputs of my fellowship, which runs July - December 2021, via [a new blog](https://amandawhitmire.github.io/blog/).
+
 ```{r}
 library(knitr)
 include_graphics("images/r_rollercoaster_horst.png")
