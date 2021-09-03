@@ -24,11 +24,12 @@ My main goals are to:
 3. extend the preservation efforts of HMS archive collections to create actionable research products, thus broadening their utility and impact; and,
 4. share the remarkable work of Hopkins researchers with our local community through meaningful engagement with diverse audiences.
 
-I am responsible for the overall management of the Harold A. Miller Library. I make purchase decisions for books, journals, and electronic resources in marine sciences. I help Hopkins residents find the information they need, procure documents not available on site or online, and provide instruction on use of physical and virtual library resources and spaces. I also provide research services, including consultations on data management, sharing and curation. I manage the Miller Library's web pages and Facebook presence.
+I am responsible for the overall management of the Harold A. Miller Library at [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/). I make purchase decisions for books, journals, and electronic resources in marine sciences. I help Hopkins residents find the information they need, procure documents not available on site or online, and provide instruction on use of physical and virtual library resources and spaces. I manage and support use of our fabrication space. I also provide research services, including consultations on data management, sharing and curation. I manage the Miller Library's web pages and Facebook presence.
 
-_Assistant to the Director, [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/)_. In my role as Assistant to the Director of the Station, I help with fundraising, publicity, and tours. 
+### Dec. 2015 - Aug. 2021: [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/)
+_Assistant to the Director_. In my role as Assistant to the Director of the Station, I helped with fundraising, publicity, and tours. 
 
-### 2012 - 2015: [Oregon State University Libraries and Press](https://library.oregonstate.edu/)
+### Sept. 2012 - Nov. 2015: [Oregon State University Libraries and Press](https://library.oregonstate.edu/)
 _Assistant Professor, Data Management Specialist_. 
 
 **Jan. 2012 – Aug. 2012: Oregon State University**, _Research Associate (post-doctoral), College of Earth, Ocean and Atmospheric Sciences_.  Research adviser: Angelicque (Angel) White
@@ -43,6 +44,7 @@ _Assistant Professor, Data Management Specialist_.
 
 
 ## CONTINUING PROFESSIONAL EDUCATION
+ - LIS Education and Data Science Integrated Network Group [(LEADING) Fellowship](https://cci.drexel.edu/mrc/leading/), July - Dec. 2021
  - Software Carpentry Instructor Training, 2-day Workshop, softwarecarperntry.org, Feb. 2018
  - Data Carpentry, 2-day Workshop, datacarperntry.org [event host and participant], Nov. 2017
  - Data Carpentry, 2-day Workshop, datacarperntry.org, June 2015
@@ -54,6 +56,7 @@ _Assistant Professor, Data Management Specialist_.
 
 
 ## Service
+- [Cyamus](https://iamslic.wildapricot.org/People/Regional-Groups/Cyamus) Regional Group of the International Association of Aquatic and Marine Science Libraries and Information Centers, Regional Group Representative (Sept. 2021 - 2023)
 - National Center for Ecological Analysis and Synthesis, [Environmental Data Science Summit](https://eds-summit.github.io/) Steering Committee, member 
 - Stanford University Libraries, [AI Steering Group](https://sul-dlss-labs.github.io/ai-projects/intro.html), member
 - Stanford University Libraries, [Stanford Digital Repository](https://sdr.stanford.edu/) Steering Group, member

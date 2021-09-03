@@ -7,7 +7,7 @@ links:
   - label: Twitter
     url: "https://twitter.com/AWhitTwit"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/amandawhitmire"
   - label: Email
     url: "thalassa@stanford.edu"
   - label: ORCID
@@ -23,6 +23,6 @@ I am an oceanographer-turned-librarian with a passion for rescuing old data. Obs
   title="Amanda's Headshot" width="150" />
 </aside>
 
-**Currently** I am Head Librarian & Bibliographer of the [Harold A. Miller Library](https://library.stanford.edu/hopkins), and Assistant to the Director of [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/) at Stanford University. I am also an elected official, serving as a [Trustee](https://www.mpusd.net/apps/pages/index.jsp?uREC_ID=1006448&type=d&pREC_ID=1317626) on the [Monterey Peninsula Unified School District](https://www.mpusd.net/) Board of Education for Trustee Area 3 (Monterey; 2018-2022). I am a mom, a jack of all trades, and a keeper of chickens.
+**Currently** I am Head Librarian & Bibliographer of the [Harold A. Miller Library](https://library.stanford.edu/hopkins). I am also an elected official, serving as a [Trustee](https://www.mpusd.net/apps/pages/index.jsp?uREC_ID=1006448&type=d&pREC_ID=1317626) on the [Monterey Peninsula Unified School District](https://www.mpusd.net/) Board of Education for Trustee Area 3 (Monterey; 2018-2022). I am a mom, a jack of all trades, and a keeper of chickens.
 
 **Previously** I was an Assistant Professor, Data Management Specialist with OSU Libraries & Press at Oregon State University. I developed and taught a 2-credit, [graduate-level course](http://doi.org/10.7710/2162-3309.1246) in research data management, and was PI on an IMLS-funded [project](https://osf.io/kh2y6/) to develop a tool to standardize the review of NSF data management plans.
